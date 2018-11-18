@@ -1,0 +1,2 @@
+This is an app I made for a job application in the summer of 2017 as a test assignment for the company to evaluate 
+my proficiency with java. This description of the task can be read in TestAssignment.pdf
